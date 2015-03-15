@@ -116,11 +116,11 @@ Scene{
     Timer{
 
         id:pipeGenerator
-        interval:2500; repeat: true
+        interval:3500; repeat: true
         running:scene.running
 
         onTriggered: {
-            var pipe = pipeComponent.createObject(scene, {gapY:60 + Math.floor(Math.random()*10)*0.1*80})
+            var pipe = pipeComponent.createObject(scene, {gapY: (parent.height * 0.3) + Math.floor(Math.random()*10)*0.1*80})
             pipes.push(pipe)
         }
     }

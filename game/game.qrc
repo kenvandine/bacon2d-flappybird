@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Birdy.qml</file>
+        <file>DoublePipe.qml</file>
+        <file>Floor.qml</file>
+        <file>InfiniteScrollItem.qml</file>
+        <file>main.qml</file>
+        <file>MainScene.qml</file>
+        <file>Pipe.qml</file>
+        <file>ScoreBoard.qml</file>
+        <file>Score.qml</file>
+        <file>img/0_big.png</file>
+        <file>img/1_big.png</file>
+        <file>img/2_big.png</file>
+        <file>img/3_big.png</file>
+        <file>img/4_big.png</file>
+        <file>img/5_big.png</file>
+        <file>img/6_big.png</file>
+        <file>img/7_big.png</file>
+        <file>img/8_big.png</file>
+        <file>img/9_big.png</file>
+        <file>img/bird_sprite.png</file>
+        <file>img/bird_sprite@2x.png</file>
+        <file>img/ceiling.png</file>
+        <file>img/land.png</file>
+        <file>img/pipe.png</file>
+        <file>img/pipe_down.png</file>
+        <file>img/pipe_up.png</file>
+        <file>img/sky.png</file>
+        <file>img/splash.png</file>
+    </qresource>
+</RCC>
+

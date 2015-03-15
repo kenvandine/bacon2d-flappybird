@@ -11,8 +11,8 @@ import Bacon2D 1.0
 Game{
     id:game
     gameName: "Jumpy Bird"
-    width: 640
-    height: 420
+    width: 768
+    height: 1280
     ups:30 // <- updates per second
     currentScene: scene
 

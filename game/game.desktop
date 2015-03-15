@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=game
+Exec=game
+Icon=game/game.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

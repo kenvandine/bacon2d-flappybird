@@ -1,0 +1,16 @@
+{
+    "name": "ken-vandine.flappybird",
+    "description": "Flappybird",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Flappybird",
+    "hooks": {
+        "game": {
+            "apparmor": "game/game.apparmor",
+            "desktop":  "game/game.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Ken VanDine <ken.vandine@ubuntu.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
